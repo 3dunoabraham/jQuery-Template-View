@@ -16,6 +16,7 @@ class jQueryTemplateView {
 		};
 
 		this.updaters =
+		{
 		};
 
 		this.watchers =
